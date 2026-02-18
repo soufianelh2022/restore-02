@@ -15,45 +15,45 @@
     ]
   },
   {
-    "id": "gm_construct",
+    "id": "Т-Банк",
     "category": "Maps",
-    "title": "GM Construct",
-    "description": "The classic white room sandbox map for building and testing.",
+    "title": "Т-Банк",
+    "description": "Т-Банк — лучшее приложение для жизни. С нами просто и удобно управлять деньгами, выгодно тратить и получать кэшбэк. ",
     "tags": [
       "Sandbox",
       "Building"
     ],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://www.rustore.ru/catalog/_next/static/media/laurel_wreath.0d3d9274.svg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://static.rustore.ru/imgproxy/pGCkIfaj1QDM9M07Zc-1JzrFtmEJNoKOamxIcLQBJv0/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/9/30/f1/apk/220863/content/SCREENSHOT/a99db8d2-1771-49b9-9dec-b965184a42a6.png@webp",
+      "https://static.rustore.ru/imgproxy/1tIurY6QRC4MP-hlf__AGivKE07Gq0bkJcRFtdYZM1o/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/9/30/af/apk/220863/content/SCREENSHOT/2811bcf2-5e0e-4cd6-a7d5-a27cdd351f33.png@webp"
     ]
   },
    {
-    "id": "gm_construct",
+    "id": "ВТБ Онлайн",
     "category": "Maps",
-    "title": "GM Construct",
-    "description": "The classic white room sandbox map for building and testing.",
+    "title": "ВТБ Онлайн",
+    "description": "Вы можете управлять финансами с мобильного устройства 24/7. Регистрация и выпуск цифровой карты займет пару минут..",
     "tags": [
-      "Sandbox",
-      "Building"
+      "можете",
+      "устройства"
     ],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://static.rustore.ru/imgproxy/LguGaWMo4tYwKcTnnlWnDSSFDyUX1B_kxPoWNteyPeI/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/404415/content/ICON/867b6386-687d-4d6f-a686-4ee98c04b859.png@webp",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://static.rustore.ru/imgproxy/KZSGTf48RGnJBoIgvxEJG28PdDX2TrAD3rDQ0Csuvz0/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/404415/content/SCREENSHOT/6f892d63-dd67-4ff7-9629-3dd1f4d27a98.png@webp",
+      "https://static.rustore.ru/imgproxy/yShQxrSxLSmnTeif1_X6HbaGr77BIgISK3cK2Zuwxow/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/404415/content/SCREENSHOT/0f02137f-3656-46b4-aa00-5f78c20f64cd.jpg@webp"
     ]
   },
    {
-    "id": "gm_construct",
+    "id": "Альфа-Банк",
     "category": "Maps",
-    "title": "GM Construct",
-    "description": "The classic white room sandbox map for building and testing.",
+    "title": "Альфа-Банк",
+    "description": "Лучший мобильный банк пять лет подряд по версии Markswebb Мобильное приложение Альфа-Банка — это безопасный доступ к вашим счетам и банковским картам. В любой момент вы можете сделать быстрый перевод близкому человеку, проверить,",
     "tags": [
-      "Sandbox",
-      "Building"
+      "Альфа",
+      "Банк"
     ],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://www.rustore.ru/catalog/_next/static/media/mockicon.2015c954.svg",
     "screenshots": [
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
