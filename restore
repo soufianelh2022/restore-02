@@ -23,7 +23,7 @@
       "Sandbox",
       "Building"
     ],
-    "image_url": "https://www.rustore.ru/catalog/_next/static/media/laurel_wreath.0d3d9274.svg",
+    "image_url": "https://static.rustore.ru/imgproxy/pGCkIfaj1QDM9M07Zc-1JzrFtmEJNoKOamxIcLQBJv0/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/9/30/f1/apk/220863/content/SCREENSHOT/a99db8d2-1771-49b9-9dec-b965184a42a6.png@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/pGCkIfaj1QDM9M07Zc-1JzrFtmEJNoKOamxIcLQBJv0/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/9/30/f1/apk/220863/content/SCREENSHOT/a99db8d2-1771-49b9-9dec-b965184a42a6.png@webp",
       "https://static.rustore.ru/imgproxy/1tIurY6QRC4MP-hlf__AGivKE07Gq0bkJcRFtdYZM1o/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/9/30/af/apk/220863/content/SCREENSHOT/2811bcf2-5e0e-4cd6-a7d5-a27cdd351f33.png@webp"
@@ -53,7 +53,7 @@
       "Альфа",
       "Банк"
     ],
-    "image_url": "https://www.rustore.ru/catalog/_next/static/media/mockicon.2015c954.svg",
+    "image_url": "https://static.rustore.ru/imgproxy/FjgsClgg0crUVE9DiaueyRVtmQQMrZ7fYyNh88Gedq0/preset:web_app_icon_160/plain/https://static.rustore.ru/afb07f02-5399-4f45-a366-e49a7b3420ad@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/VzcxVSXLJmC7fxIRc-cU7UPfbtjv26Nb66pXVZNclBE/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/d4617777-6a11-4b0e-bc2a-20a59fa8964a.jpg@webp",
       "https://static.rustore.ru/imgproxy/zB9N7Y7WBCjs8X2pWqblbUgVwXTI7Nq9RPBvVb999zk/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/6c8610f0-93a7-4029-8359-54fc14d5dbcb.jpg@webp"
@@ -84,7 +84,7 @@
       "Sandbox",
       "Building"
     ],
-    "image_url": "https://www.rustore.ru/catalog/_next/static/media/laurel_wreath.0d3d9274.svg",
+    "image_url": "https://static.rustore.ru/imgproxy/Yyqec74_HopyEHyDU8DqsiINg3SJ9qAXJ_g6SDTiaKI/preset:web_scr_prt_162/plain/https://static.rustore.ru/2026/1/29/20/apk/462271/content/SCREENSHOT/19586ea1-7572-45c5-b914-720b766e6972.png@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/Yyqec74_HopyEHyDU8DqsiINg3SJ9qAXJ_g6SDTiaKI/preset:web_scr_prt_162/plain/https://static.rustore.ru/2026/1/29/20/apk/462271/content/SCREENSHOT/19586ea1-7572-45c5-b914-720b766e6972.png@webp",
       "https://static.rustore.ru/imgproxy/r6oEBC9HtHWbTxpfJTtdYfIBgJO9aNCELN_0Ltkwpk8/preset:web_scr_prt_162/plain/https://static.rustore.ru/2026/1/29/06/apk/462271/content/SCREENSHOT/9d9e6733-12b9-4ce0-9ab8-81bd27603431.png@webp"
@@ -114,17 +114,60 @@
       "Точка",
       "Simple"
     ],
-    "image_url": "https://www.rustore.ru/catalog/_next/static/media/mockicon.2015c954.svg",
+    "image_url": "https://static.rustore.ru/imgproxy/WZ-preK_mGz98_eyoug5Q3nq77E-7PqF727FWIKSYFA/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/3155391/content/ICON/84558b28-c6bb-490d-90af-3830b19836dd.png@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/4Y2GvtHCKSRLABElY8Tlu2Y-7xOouhUUNtEBz8mGt5Y/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/3155391/content/SCREENSHOT/427b6166-c982-4166-ae38-cd87a430d51c.jpg@webp",
       "https://static.rustore.ru/imgproxy/o6PYgR3-YDloyiaNZa_DQpkk-VEK_UGvd7VRSxQfxrI/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/3155391/content/SCREENSHOT/0cfa14a4-739e-4302-a32f-8970e5121c31.jpg@webp"
     ]
   },
   {
-    "id": "void_weapons",
+    "id": "Наруто: Битва Шиноби",
     "category": "Mods",
-    "title": "VoidEngineer Weapons",
-    "description": "A collection of advanced weapons with unique features and sci-fi effects.",
+    "title": "Наруто: Битва Шиноби",
+    "description": "Игра официально выйдет 9 декабря! Оставайтесь с нами!! Наруто: Битва Шиноби — это мобильная игра в жанре экшн-RPG, которая переносит захватывающий мир Наруто на твое устройство. Высококачественная 3D-графика, динамичные бои в реальном ",
+    "tags": [
+      "Наруто",
+      "Addon"
+    ],
+    "image_url": "https://static.rustore.ru/imgproxy/r-PW_wKV3oZjUaneZygGyf_RtP4pqpLoOec0rX3WCAw/preset:web_app_icon_160/plain/https://static.rustore.ru/2025/11/20/3f/apk/2063669455/content/ICON/29d2794f-30e7-4445-94ff-7917059cdccf.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/e_kCvtr9eSLrPj9x_ozBC-CFglSBzSrn5YKjttImsj0/preset:web_scr_lnd_335/plain/https://static.rustore.ru/2025/12/3/e0/apk/2063669455/content/SCREENSHOT/6d1b4579-ee56-446f-b658-d00ed80ff984.jpg@webp"
+    ]
+  },
+   {
+    "id": "Повелители покемонов",
+    "category": "Mods",
+    "title": "Повелители покемонов",
+    "description": "Каждый кадр тщательно прорисован, милые покемоны оживают на экране
+От таинственных лесов до огненных вулканов — HD-локации погружают в новый мир",
+    "tags": [
+      "Weapons",
+      "Addon"
+    ],
+    "image_url": "https://static.rustore.ru/imgproxy/jWFeV_FNIXyR7GLuoDu0bGX0EuiZofPk-yoHKViouLA/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063635588/content/ICON/a862e54b-3922-4119-be82-5e3cd4da1a91.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/8o6lzq0JQpYbuUe7EjQHPplSW6pEdLVEngyHB8gy2Vg/preset:web_scr_lnd_335/plain/https://static.rustore.ru/apk/2063635588/content/SCREENSHOT/758264a3-7dbb-4111-90bc-1d044221c06c.jpg@webp"
+    ]
+  },
+   {
+    "id": "Grand Mobile: РП жизнь и гонки онлайн",
+    "category": "Mods",
+    "title": "Grand Mobile: РП жизнь и гонки онлайн",
+    "description": "Добро пожаловать в Grand Mobile — масштабную онлайн RP игру с открытым миром, вдохновлённую атмосферой гта и современной жизнью России. Здесь вы начинаете путь с нуля и сами решаете, кем стать: законопослушным гражданином, успешным бизнесменом или опасным криминальным автори.",
+    "tags": [
+      "Weapons",
+      "жизнь"
+    ],
+    "image_url": "https://static.rustore.ru/imgproxy/9PQezXg1gL1kmLm0CslJJmNlKen6XFdgJsGRg0fxKlk/preset:web_app_icon_160/plain/https://static.rustore.ru/2026/1/16/fd/apk/2063550945/content/ICON/b5f1a455-c03b-40a5-84b7-40f615eeb167.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/5J8CGBtT_olusG7k9qtXI9CUibbxZwa5WiV5oSLBeK8/preset:web_scr_lnd_335/plain/https://static.rustore.ru/2026/1/5/bb/apk/2063550945/content/SCREENSHOT/3aae6128-32f0-4cf9-a7bd-7b7ef37b6040.png@webp"
+    ]
+  },
+   {
+    "id": "Рыбалка World of Fishers",
+    "category": "Mods",
+    "title": "Рыбалка World of Fishers",
+    "description": " Ловите 1558 видов рыб в 2D/3D мобильной (Андроид, IOS, ПК) русской рыбалке 2026 года.  Симулятор для рыбаков, которые не могут попасть на реальную рыбалку! Скачайте игру, соревнуйтесь, общайтесь с другими реальными игроками на русском. Наша рыбалка:.",
     "tags": [
       "Weapons",
       "Addon"
@@ -135,73 +178,34 @@
     ]
   },
    {
-    "id": "void_weapons",
+    "id": "Реальная рыбалка",
     "category": "Mods",
-    "title": "VoidEngineer Weapons",
-    "description": "A collection of advanced weapons with unique features and sci-fi effects.",
+    "title": "Реальная рыбалка",
+    "description": "Представляем Вашему вниманию наш симулятор рыбалки!
+Вас ожидает настоящий рай для рыбака:
+- 30 великолепно проработанных локаций
+- Более 300 видов разнообразных рыб.",
     "tags": [
       "Weapons",
       "Addon"
     ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/",
+    "image_url": "https://static.rustore.ru/imgproxy/gwxoaP6ZSKmV4mWJKh2FtiQgPCdvQ4ORfz9UXLBKxKU/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/68380607/content/ICON/c61f22e3-ecd7-4e1f-9e7d-598aeb4ffe67.png@webp",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/"
+      "https://static.rustore.ru/imgproxy/tUoEbgjuv28gmolYxR-ncCWJqJXwATWvYb6kuT3v-II/preset:web_scr_lnd_335/plain/https://static.rustore.ru/apk/68380607/content/SCREENSHOT/85ff3853-eeed-4f49-8b51-9dfcbbadda30.png@webp"
     ]
   },
    {
-    "id": "void_weapons",
+    "id": "Рыбалка для друзей",
     "category": "Mods",
-    "title": "VoidEngineer Weapons",
-    "description": "A collection of advanced weapons with unique features and sci-fi effects.",
+    "title": "Рыбалка для друзей",
+    "description": "Почувствуй азарт рыбной ловли в любое время – играй онлайн и оффлайн! Лови рыбу, выполняй квесты, улучшай снасти и соревнуйся с другими игроками.",
     "tags": [
       "Weapons",
       "Addon"
     ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/",
+    "image_url": "https://static.rustore.ru/imgproxy/3xebbRNoIyNv9vaP7kTgnBkrFd4Cc85-Mh1Au7ynUdU/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/587513023/content/ICON/873516ed-6bf6-4dc2-806f-31f54a90411c.png@webp",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/"
-    ]
-  },
-   {
-    "id": "void_weapons",
-    "category": "Mods",
-    "title": "VoidEngineer Weapons",
-    "description": "A collection of advanced weapons with unique features and sci-fi effects.",
-    "tags": [
-      "Weapons",
-      "Addon"
-    ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/"
-    ]
-  },
-   {
-    "id": "void_weapons",
-    "category": "Mods",
-    "title": "VoidEngineer Weapons",
-    "description": "A collection of advanced weapons with unique features and sci-fi effects.",
-    "tags": [
-      "Weapons",
-      "Addon"
-    ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/"
-    ]
-  },
-   {
-    "id": "void_weapons",
-    "category": "Mods",
-    "title": "VoidEngineer Weapons",
-    "description": "A collection of advanced weapons with unique features and sci-fi effects.",
-    "tags": [
-      "Weapons",
-      "Addon"
-    ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/"
+      "https://static.rustore.ru/imgproxy/VU7ySy1g6adOD79tuEAZC13R22-Zrgxcd3nUbOk0EbA/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/587513023/content/SCREENSHOT/4cda6d0b-8f11-4ef0-86f1-e22e8212daf4.jpg@webp"
     ]
   },
   {
