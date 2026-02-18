@@ -55,68 +55,69 @@
     ],
     "image_url": "https://www.rustore.ru/catalog/_next/static/media/mockicon.2015c954.svg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://static.rustore.ru/imgproxy/VzcxVSXLJmC7fxIRc-cU7UPfbtjv26Nb66pXVZNclBE/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/d4617777-6a11-4b0e-bc2a-20a59fa8964a.jpg@webp",
+      "https://static.rustore.ru/imgproxy/zB9N7Y7WBCjs8X2pWqblbUgVwXTI7Nq9RPBvVb999zk/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/6c8610f0-93a7-4029-8359-54fc14d5dbcb.jpg@webp"
     ]
   },
    {
-    "id": "gm_construct",
+    "id": "Халва – Совкомбанк",
     "category": "Maps",
-    "title": "GM Construct",
-    "description": "The classic white room sandbox map for building and testing.",
+    "title": "Халва – Совкомбанк",
+    "description": "Здесь можно оставить заявку на карту рассрочки «Халва» от Совкомбанка
+Преимущества «Халвы»:",
+    "tags": [
+      "Халва",
+      "Совкомбанк"
+    ],
+    "image_url": "https://static.rustore.ru/imgproxy/cTt_LatGjvvJSC-QW9MCi9f5dqBT65UJh7bPcKs5Lw8/preset:web_app_icon_160/plain/https://static.rustore.ru/4df72148-31cf-46f4-b3ad-1281ab1419c4@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/7i6InFToRWA40mdqHZ1zRo8hkBbFWwEWPSMzAh8vO0w/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2851007/content/SCREENSHOT/98d3bea9-2480-4a06-833a-378ec7d64b1e.png@webp",
+      "https://static.rustore.ru/imgproxy/Np40Z6AFmWmq5DV1yaQldtBw8ftQ8mNiy5njNctIHXg/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2851007/content/SCREENSHOT/d00aa8c1-566a-42d9-b902-138f953e0413.png@webp"
+    ]
+  },
+   {
+    "id": "СберБанк Онлайн",
+    "category": "Maps",
+    "title": "СберБанк Онлайн",
+    "description": "СберБанк Онлайн — ваш надёжный помощник в ежедневных делах. Все финансовые и нефинансовые возможности доступны в одном приложении: от быстрых платежей и удобных переводов до сервисов для жизни, покупок и путешествий.",
     "tags": [
       "Sandbox",
       "Building"
     ],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://www.rustore.ru/catalog/_next/static/media/laurel_wreath.0d3d9274.svg",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://static.rustore.ru/imgproxy/Yyqec74_HopyEHyDU8DqsiINg3SJ9qAXJ_g6SDTiaKI/preset:web_scr_prt_162/plain/https://static.rustore.ru/2026/1/29/20/apk/462271/content/SCREENSHOT/19586ea1-7572-45c5-b914-720b766e6972.png@webp",
+      "https://static.rustore.ru/imgproxy/r6oEBC9HtHWbTxpfJTtdYfIBgJO9aNCELN_0Ltkwpk8/preset:web_scr_prt_162/plain/https://static.rustore.ru/2026/1/29/06/apk/462271/content/SCREENSHOT/9d9e6733-12b9-4ce0-9ab8-81bd27603431.png@webp"
     ]
   },
    {
-    "id": "gm_construct",
+    "id": "Т-Бизнес",
     "category": "Maps",
-    "title": "GM Construct",
-    "description": "The classic white room sandbox map for building and testing.",
+    "title": "Т-Бизнес",
+    "description": "Управляйте финансами вашей компании из мобильного приложения Т-Бизнес.  Удобное приложение для бизнеса со всем необходимым для юридических лиц и ИП: регистрация бизнеса, открытие расчетного счета, ведение РКО, ВЭД, кредитование бизнеса, торговый эквай.",
     "tags": [
-      "Sandbox",
-      "Building"
+      "Бизнес",
+      "Управляйте"
     ],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "image_url": "https://static.rustore.ru/imgproxy/d8GdldHIvOknZS1H7WGTZPfGfegzTd5j7KW37FGB2z8/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/374975/content/ICON/397c299e-7786-4bf9-bd35-ed80ea83b849.png@webp",
     "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
-    ]
-  },
-   {
-    "id": "gm_construct",
-    "category": "Maps",
-    "title": "GM Construct",
-    "description": "The classic white room sandbox map for building and testing.",
-    "tags": [
-      "Sandbox",
-      "Building"
-    ],
-    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-    "screenshots": [
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
-      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg"
+      "https://static.rustore.ru/imgproxy/lFhIqbJ0Nl9VPEENvOxse2huZbedPt5NcfcVJ4Nu39o/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/374975/content/SCREENSHOT/9a33c689-642a-4457-8ef7-77bef2cd5f4f.png@webp",
+      "https://static.rustore.ru/imgproxy/CMO6PKPylw9Nc8u8_x6GoyFim3wEw9FQ3rqIx6jf6xM/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/374975/content/SCREENSHOT/ef7ec497-a231-4c50-8e89-50c00f7b0715.png@webp"
     ]
   },
   {
-    "id": "gm_flatgrass",
+    "id": "Точка",
     "category": "Maps",
-    "title": "GM Flatgrass",
-    "description": "A simple flat grassy area perfect for large contraptions.",
+    "title": "Точка",
+    "description": "AЭто самая новая версия приложения Точки, банка для предпринимателей и предприятий. Мы исследовали привычки сотен тысяч клиентов и улучшили каждую деталь приложения, чтобы вы могли назвать этот личный кабинет по-настоящему своим!",
     "tags": [
-      "Sandbox",
+      "Точка",
       "Simple"
     ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
+    "image_url": "https://www.rustore.ru/catalog/_next/static/media/mockicon.2015c954.svg",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/",
-      "https://steamuserimages-a.akamaihd.net/ugc/2050871146200259838/E6476100DB935392D054452174C40DA299863B8B/"
+      "https://static.rustore.ru/imgproxy/4Y2GvtHCKSRLABElY8Tlu2Y-7xOouhUUNtEBz8mGt5Y/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/3155391/content/SCREENSHOT/427b6166-c982-4166-ae38-cd87a430d51c.jpg@webp",
+      "https://static.rustore.ru/imgproxy/o6PYgR3-YDloyiaNZa_DQpkk-VEK_UGvd7VRSxQfxrI/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/3155391/content/SCREENSHOT/0cfa14a4-739e-4302-a32f-8970e5121c31.jpg@webp"
     ]
   },
   {
