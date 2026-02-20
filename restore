@@ -4,10 +4,7 @@
     "category": "Maps",
     "title": "Mir Pay",
     "description": "Mir Pay — мобильное приложение платёжной системы «Мир». С ним можно безопасно, быстро и удобно оплачивать товары и услуги при помощи смартфона.",
-    "tags": [
-      "City",
-      "Roleplay"
-    ],
+    "tags": ["City", "Roleplay"],
     "image_url": "https://static.rustore.ru/imgproxy/ANY8qNuhsqsa21GY1qqYxeCea_oErIrWQ49RpqQsDf4/preset:web_app_icon_160/plain/https://static.rustore.ru/9d3ce275-3ce2-40e2-9779-6585a76c5d6f@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/jTWrJVerPY5wfSIvE3LtdHCzEV7ICJcTTvuV9_6nzCQ/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/355263/content/SCREENSHOT/fcfab80a-e509-42fe-9e71-94261f02f5f8.png@webp",
@@ -19,85 +16,67 @@
     "category": "Maps",
     "title": "Т-Банк",
     "description": "Т-Банк — лучшее приложение для жизни. С нами просто и удобно управлять деньгами, выгодно тратить и получать кэшбэк. ",
-    "tags": [
-      "Sandbox",
-      "Building"
-    ],
+    "tags": ["Sandbox", "Building"],
     "image_url": "https://static.rustore.ru/imgproxy/pGCkIfaj1QDM9M07Zc-1JzrFtmEJNoKOamxIcLQBJv0/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/9/30/f1/apk/220863/content/SCREENSHOT/a99db8d2-1771-49b9-9dec-b965184a42a6.png@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/pGCkIfaj1QDM9M07Zc-1JzrFtmEJNoKOamxIcLQBJv0/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/9/30/f1/apk/220863/content/SCREENSHOT/a99db8d2-1771-49b9-9dec-b965184a42a6.png@webp",
       "https://static.rustore.ru/imgproxy/1tIurY6QRC4MP-hlf__AGivKE07Gq0bkJcRFtdYZM1o/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/9/30/af/apk/220863/content/SCREENSHOT/2811bcf2-5e0e-4cd6-a7d5-a27cdd351f33.png@webp"
     ]
   },
-   {
+  {
     "id": "ВТБ Онлайн",
     "category": "Maps",
     "title": "ВТБ Онлайн",
     "description": "Вы можете управлять финансами с мобильного устройства 24/7. Регистрация и выпуск цифровой карты займет пару минут..",
-    "tags": [
-      "можете",
-      "устройства"
-    ],
+    "tags": ["можете", "устройства"],
     "image_url": "https://static.rustore.ru/imgproxy/LguGaWMo4tYwKcTnnlWnDSSFDyUX1B_kxPoWNteyPeI/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/404415/content/ICON/867b6386-687d-4d6f-a686-4ee98c04b859.png@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/KZSGTf48RGnJBoIgvxEJG28PdDX2TrAD3rDQ0Csuvz0/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/404415/content/SCREENSHOT/6f892d63-dd67-4ff7-9629-3dd1f4d27a98.png@webp",
       "https://static.rustore.ru/imgproxy/yShQxrSxLSmnTeif1_X6HbaGr77BIgISK3cK2Zuwxow/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/404415/content/SCREENSHOT/0f02137f-3656-46b4-aa00-5f78c20f64cd.jpg@webp"
     ]
   },
-   {
+  {
     "id": "Альфа-Банк",
     "category": "Maps",
     "title": "Альфа-Банк",
     "description": "Лучший мобильный банк пять лет подряд по версии Markswebb Мобильное приложение Альфа-Банка — это безопасный доступ к вашим счетам и банковским картам. В любой момент вы можете сделать быстрый перевод близкому человеку, проверить,",
-    "tags": [
-      "Альфа",
-      "Банк"
-    ],
+    "tags": ["Альфа", "Банк"],
     "image_url": "https://static.rustore.ru/imgproxy/FjgsClgg0crUVE9DiaueyRVtmQQMrZ7fYyNh88Gedq0/preset:web_app_icon_160/plain/https://static.rustore.ru/afb07f02-5399-4f45-a366-e49a7b3420ad@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/VzcxVSXLJmC7fxIRc-cU7UPfbtjv26Nb66pXVZNclBE/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/d4617777-6a11-4b0e-bc2a-20a59fa8964a.jpg@webp",
       "https://static.rustore.ru/imgproxy/zB9N7Y7WBCjs8X2pWqblbUgVwXTI7Nq9RPBvVb999zk/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/6c8610f0-93a7-4029-8359-54fc14d5dbcb.jpg@webp"
     ]
   },
-   {
+  {
     "id": "Халва – Совкомбанк",
     "category": "Maps",
     "title": "Халва – Совкомбанк",
     "description": "Здесь можно оставить заявку на карту рассрочки «Халва» от Совкомбанка Преимущества Халвы",
-    "tags": [
-      "Халва",
-      "Совкомбанк"
-    ],
+    "tags": ["Халва", "Совкомбанк"],
     "image_url": "https://static.rustore.ru/imgproxy/cTt_LatGjvvJSC-QW9MCi9f5dqBT65UJh7bPcKs5Lw8/preset:web_app_icon_160/plain/https://static.rustore.ru/4df72148-31cf-46f4-b3ad-1281ab1419c4@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/7i6InFToRWA40mdqHZ1zRo8hkBbFWwEWPSMzAh8vO0w/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2851007/content/SCREENSHOT/98d3bea9-2480-4a06-833a-378ec7d64b1e.png@webp",
       "https://static.rustore.ru/imgproxy/Np40Z6AFmWmq5DV1yaQldtBw8ftQ8mNiy5njNctIHXg/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2851007/content/SCREENSHOT/d00aa8c1-566a-42d9-b902-138f953e0413.png@webp"
     ]
   },
-   {
+  {
     "id": "СберБанк Онлайн",
     "category": "Maps",
     "title": "СберБанк Онлайн",
     "description": "СберБанк Онлайн — ваш надёжный помощник в ежедневных делах. Все финансовые и нефинансовые возможности доступны в одном приложении: от быстрых платежей и удобных переводов до сервисов для жизни, покупок и путешествий.",
-    "tags": [
-      "Sandbox",
-      "Building"
-    ],
+    "tags": ["Sandbox", "Building"],
     "image_url": "https://static.rustore.ru/imgproxy/Yyqec74_HopyEHyDU8DqsiINg3SJ9qAXJ_g6SDTiaKI/preset:web_scr_prt_162/plain/https://static.rustore.ru/2026/1/29/20/apk/462271/content/SCREENSHOT/19586ea1-7572-45c5-b914-720b766e6972.png@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/Yyqec74_HopyEHyDU8DqsiINg3SJ9qAXJ_g6SDTiaKI/preset:web_scr_prt_162/plain/https://static.rustore.ru/2026/1/29/20/apk/462271/content/SCREENSHOT/19586ea1-7572-45c5-b914-720b766e6972.png@webp",
       "https://static.rustore.ru/imgproxy/r6oEBC9HtHWbTxpfJTtdYfIBgJO9aNCELN_0Ltkwpk8/preset:web_scr_prt_162/plain/https://static.rustore.ru/2026/1/29/06/apk/462271/content/SCREENSHOT/9d9e6733-12b9-4ce0-9ab8-81bd27603431.png@webp"
     ]
   },
-   {
+  {
     "id": "Т-Бизнес",
     "category": "Maps",
     "title": "Т-Бизнес",
     "description": "Управляйте финансами вашей компании из мобильного приложения Т-Бизнес.  Удобное приложение для бизнеса со всем необходимым для юридических лиц и ИП: регистрация бизнеса, открытие расчетного счета, ведение РКО, ВЭД, кредитование бизнеса, торговый эквай.",
-    "tags": [
-      "Бизнес",
-      "Управляйте"
-    ],
+    "tags": ["Бизнес", "Управляйте"],
     "image_url": "https://static.rustore.ru/imgproxy/d8GdldHIvOknZS1H7WGTZPfGfegzTd5j7KW37FGB2z8/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/374975/content/ICON/397c299e-7786-4bf9-bd35-ed80ea83b849.png@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/lFhIqbJ0Nl9VPEENvOxse2huZbedPt5NcfcVJ4Nu39o/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/374975/content/SCREENSHOT/9a33c689-642a-4457-8ef7-77bef2cd5f4f.png@webp",
@@ -109,98 +88,11 @@
     "category": "Maps",
     "title": "Точка",
     "description": "AЭто самая новая версия приложения Точки, банка для предпринимателей и предприятий. Мы исследовали привычки сотен тысяч клиентов и улучшили каждую деталь приложения, чтобы вы могли назвать этот личный кабинет по-настоящему своим!",
-    "tags": [
-      "Точка",
-      "Simple"
-    ],
+    "tags": ["Точка", "Simple"],
     "image_url": "https://static.rustore.ru/imgproxy/WZ-preK_mGz98_eyoug5Q3nq77E-7PqF727FWIKSYFA/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/3155391/content/ICON/84558b28-c6bb-490d-90af-3830b19836dd.png@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/4Y2GvtHCKSRLABElY8Tlu2Y-7xOouhUUNtEBz8mGt5Y/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/3155391/content/SCREENSHOT/427b6166-c982-4166-ae38-cd87a430d51c.jpg@webp",
       "https://static.rustore.ru/imgproxy/o6PYgR3-YDloyiaNZa_DQpkk-VEK_UGvd7VRSxQfxrI/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/3155391/content/SCREENSHOT/0cfa14a4-739e-4302-a32f-8970e5121c31.jpg@webp"
-    ]
-  },
-  {
-    "id": "Наруто: Битва Шиноби",
-    "category": "Mods",
-    "title": "Наруто: Битва Шиноби",
-    "description": "Игра официально выйдет 9 декабря! Оставайтесь с нами!! Наруто: Битва Шиноби — это мобильная игра в жанре экшн-RPG, которая переносит захватывающий мир Наруто на твое устройство. Высококачественная 3D-графика, динамичные бои в реальном ",
-    "tags": [
-      "Наруто",
-      "Addon"
-    ],
-    "image_url": "https://static.rustore.ru/imgproxy/r-PW_wKV3oZjUaneZygGyf_RtP4pqpLoOec0rX3WCAw/preset:web_app_icon_160/plain/https://static.rustore.ru/2025/11/20/3f/apk/2063669455/content/ICON/29d2794f-30e7-4445-94ff-7917059cdccf.png@webp",
-    "screenshots": [
-      "https://static.rustore.ru/imgproxy/e_kCvtr9eSLrPj9x_ozBC-CFglSBzSrn5YKjttImsj0/preset:web_scr_lnd_335/plain/https://static.rustore.ru/2025/12/3/e0/apk/2063669455/content/SCREENSHOT/6d1b4579-ee56-446f-b658-d00ed80ff984.jpg@webp"
-    ]
-  },
-   {
-    "id": "Повелители покемонов",
-    "category": "Mods",
-    "title": "Повелители покемонов",
-    "description": "Каждый кадр тщательно прорисован, милые покемоны оживают на экране От таинственных лесов до огненных вулканов — HD-локации погружают в новый мир",
-    "tags": [
-      "Weapons",
-      "Addon"
-    ],
-    "image_url": "https://static.rustore.ru/imgproxy/jWFeV_FNIXyR7GLuoDu0bGX0EuiZofPk-yoHKViouLA/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063635588/content/ICON/a862e54b-3922-4119-be82-5e3cd4da1a91.png@webp",
-    "screenshots": [
-      "https://static.rustore.ru/imgproxy/8o6lzq0JQpYbuUe7EjQHPplSW6pEdLVEngyHB8gy2Vg/preset:web_scr_lnd_335/plain/https://static.rustore.ru/apk/2063635588/content/SCREENSHOT/758264a3-7dbb-4111-90bc-1d044221c06c.jpg@webp"
-    ]
-  },
-   {
-    "id": "Grand Mobile: РП жизнь и гонки онлайн",
-    "category": "Mods",
-    "title": "Grand Mobile: РП жизнь и гонки онлайн",
-    "description": "Добро пожаловать в Grand Mobile — масштабную онлайн RP игру с открытым миром, вдохновлённую атмосферой гта и современной жизнью России. Здесь вы начинаете путь с нуля и сами решаете, кем стать: законопослушным гражданином, успешным бизнесменом или опасным криминальным автори.",
-    "tags": [
-      "Weapons",
-      "жизнь"
-    ],
-    "image_url": "https://static.rustore.ru/imgproxy/9PQezXg1gL1kmLm0CslJJmNlKen6XFdgJsGRg0fxKlk/preset:web_app_icon_160/plain/https://static.rustore.ru/2026/1/16/fd/apk/2063550945/content/ICON/b5f1a455-c03b-40a5-84b7-40f615eeb167.png@webp",
-    "screenshots": [
-      "https://static.rustore.ru/imgproxy/5J8CGBtT_olusG7k9qtXI9CUibbxZwa5WiV5oSLBeK8/preset:web_scr_lnd_335/plain/https://static.rustore.ru/2026/1/5/bb/apk/2063550945/content/SCREENSHOT/3aae6128-32f0-4cf9-a7bd-7b7ef37b6040.png@webp"
-    ]
-  },
-   {
-    "id": "Рыбалка World of Fishers",
-    "category": "Mods",
-    "title": "Рыбалка World of Fishers",
-    "description": " Ловите 1558 видов рыб в 2D/3D мобильной (Андроид, IOS, ПК) русской рыбалке 2026 года.  Симулятор для рыбаков, которые не могут попасть на реальную рыбалку! Скачайте игру, соревнуйтесь, общайтесь с другими реальными игроками на русском. Наша рыбалка:.",
-    "tags": [
-      "Weapons",
-      "Addon"
-    ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/"
-    ]
-  },
-   {
-    "id": "Реальная рыбалка",
-    "category": "Mods",
-    "title": "Реальная рыбалка",
-    "description": "Представляем Вашему вниманию наш симулятор рыбалки! Вас ожидает настоящий рай для рыбака: 30 великолепно проработанных локаций  Более 300 видов разнообразных рыб.",
-    "tags": [
-      "Weapons",
-      "Addon"
-    ],
-    "image_url": "https://static.rustore.ru/imgproxy/gwxoaP6ZSKmV4mWJKh2FtiQgPCdvQ4ORfz9UXLBKxKU/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/68380607/content/ICON/c61f22e3-ecd7-4e1f-9e7d-598aeb4ffe67.png@webp",
-    "screenshots": [
-      "https://static.rustore.ru/imgproxy/tUoEbgjuv28gmolYxR-ncCWJqJXwATWvYb6kuT3v-II/preset:web_scr_lnd_335/plain/https://static.rustore.ru/apk/68380607/content/SCREENSHOT/85ff3853-eeed-4f49-8b51-9dfcbbadda30.png@webp"
-    ]
-  },
-   {
-    "id": "Рыбалка для друзей",
-    "category": "Mods",
-    "title": "Рыбалка для друзей",
-    "description": "Почувствуй азарт рыбной ловли в любое время – играй онлайн и оффлайн! Лови рыбу, выполняй квесты, улучшай снасти и соревнуйся с другими игроками.",
-    "tags": [
-      "Weapons",
-      "Addon"
-    ],
-    "image_url": "https://static.rustore.ru/imgproxy/3xebbRNoIyNv9vaP7kTgnBkrFd4Cc85-Mh1Au7ynUdU/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/587513023/content/ICON/873516ed-6bf6-4dc2-806f-31f54a90411c.png@webp",
-    "screenshots": [
-      "https://static.rustore.ru/imgproxy/VU7ySy1g6adOD79tuEAZC13R22-Zrgxcd3nUbOk0EbA/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/587513023/content/SCREENSHOT/4cda6d0b-8f11-4ef0-86f1-e22e8212daf4.jpg@webp"
     ]
   },
 
@@ -209,10 +101,7 @@
     "category": "Mods",
     "title": "Блок бласт - игры без интернета",
     "description": "Блок бласт — это бесконечная головоломка с блоками, где каждое движение имеет значение. Размещайте блоки, собирайте комбо и набирайте очки. Сохраняйте концентрацию, думайте наперёд и узнайте, насколько высоко вы можете подняться!",
-    "tags": [
-      "Addon",
-      "Tools"
-    ],
+    "tags": ["Addon", "Tools"],
     "image_url": "https://static.rustore.ru/imgproxy/Oh9fYTpTgAfjrEd3ViF_xBOPYG0a7jnhcLcxDYu1taE/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063640458/content/ICON/e82371db-9129-440f-97ac-6ec82af5af6f.png@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/v5hrO98_msAqsTLfpJHFk_4LV7czghwdLapEJ0nuAOc/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2063640458/content/SCREENSHOT/a2f9c863-1fd8-4f69-b65f-ff102b70d4af.png@webp"
@@ -222,83 +111,30 @@
     "id": "Blockudoku - Block Puzzle",
     "category": "Mods",
     "title": "Blockudoku - Block Puzzle",
-    "description": "Blockudoku — это восхитительное сочетание судоку и головоломок с блоками. Блок пазл - это не сложная, но затягивающая логическая головоломка, от которой вы не сможете оторваться.
-
-Соедините блоки так, чтобы составить линии и квадраты. Расчистите поле и побейте свой рекорд ",
-    "tags": [
-      "Addon",
-      "Tools"
-    ],
-    "image_url": "https://static.rustore.ru/imgproxy/s-ikDG4L9gYIivCb0Pq2L9fIrd8P26APBF8opFP7woM/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063493648/content/ICON/0105f0b0-0e55-421d-9a03-7eb09d8d0e2a.@webp",
+    "description": "Blockudoku — это восхитительное сочетание судоку и головоломок с блоками. Блок пазл - это не сложная, но затягивающая логическая головоломка, от которой вы не сможете оторваться.\n\nСоедините блоки так, чтобы составить линии и квадраты. Расчистите поле и побейте свой рекорд ",
+    "tags": ["Addon", "Tools"],
+    "image_url": "https://static.rustore.ru/imgproxy/s-ikDG4L9gYIivCb0Pq2L9fIrd8P26APBF8opFP7woM/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063493648/content/ICON/0105f0b0-0e55-421d-9a03-7eb09d8d0e2a@webp",
     "screenshots": [
-      "https://static.rustore.ru/imgproxy/rytXrLZKpEL9hpyL4oNh9UMGizCp6KaiP0qrfj14KrM/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2063493648/content/SCREENSHOT/544e7411-76f1-4fe0-9790-aa8d0f8244ce.@webp
+      "https://static.rustore.ru/imgproxy/rytXrLZKpEL9hpyL4oNh9UMGizCp6KaiP0qrfj14KrM/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2063493648/content/SCREENSHOT/544e7411-76f1-4fe0-9790-aa8d0f8244ce@webp"
     ]
   },
   {
     "id": "Tile Explorer - совпадение",
     "category": "Mods",
     "title": "Tile Explorer - совпадение",
-    "description": "Увлечены головоломками и ищете свежую игру в жанре "три в ряд"? Хотите расслабиться, получить удовольствие и погрузиться в мир интеллектуальных головоломок с уникальными плитками? Тогда откройте для себя Tile Explorer — увлекательную головоломку, где каждое соединение плиток становится искусством. На каждом уровне Tile Explorer вам предстоит разгадывать интересные и непро",
-    "tags": [
-      "Addon",
-      "Tools"
-    ],
+    "description": "Увлечены головоломками и ищете свежую игру в жанре \"три в ряд\"? Хотите расслабиться, получить удовольствие и погрузиться в мир интеллектуальных головоломок с уникальными плитками? Тогда откройте для себя Tile Explorer — увлекательную головоломку, где каждое соединение плиток становится искусством. На каждом уровне Tile Explorer вам предстоит разгадывать интересные и непро",
+    "tags": ["Addon", "Tools"],
     "image_url": "https://static.rustore.ru/imgproxy/p8hhjl2N0VG98bo4nZ4vmkZ2nPlnhOubU8a_GF_SaIk/preset:web_app_icon_160/plain/https://static.rustore.ru/2025/11/6/d4/apk/2063669124/content/ICON/f6b460be-adf0-4c3a-a35f-b7be5d2c171a.png@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/ZNmbQTI9Zhft4MMLpfGqf_ijQRApmwWDb3VfjZIlSdY/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/11/6/73/apk/2063669124/content/SCREENSHOT/5caef1a2-a82f-45c7-89dd-2b8182452af9.jpeg@webp"
     ]
   },
   {
-    "id": "Nuts Sort",
-    "category": "Mods",
-    "title": "Nuts Sort",
-    "description": "Откройте для себя новый поворот в играх-головоломках Сортируйте разноцветные орехи по болтам в этом захватывающем приключении по подбору цветов! С более чем 500 уровнями возрастающих трудностей, Nuts Color Sort Puzzle сочетает стратегическое мышление с успокаивающим игровым процессом. Идеально подходит для расслабления или оттачи",
-    "tags": [
-      "Addon",
-      "Tools"
-    ],
-    "image_url": "https://static.rustore.ru/imgproxy/d4WKs4HDuyayJ4o5y-C6Yw_QFRRm0cHRniIdNI05XW8/preset:web_app_icon_160/plain/https://static.rustore.ru/2026/1/19/bf/apk/2063688306/content/ICON/820bfc36-ce7c-4546-a60b-a11034cee8d3.png@webp",
-    "screenshots": [
-      "https://static.rustore.ru/imgproxy/JZOk8jkLEe8k25y0aJ5rWOuWyyYAECrfmO6PTwuqMIQ/preset:web_scr_prt_162/plain/https://static.rustore.ru/2026/1/19/2e/apk/2063688306/content/SCREENSHOT/d23eb9d5-ab85-4802-9b04-43c52d8dc122.jpg@webp"
-    ]
-  },
-  {
-    "id": "Сортировка мячей: Цветная игра",
-    "category": "Mods",
-    "title": "Сортировка мячей: Цветная игра",
-    "description": "Эта игра-головоломка с шариками является самой расслабляющей и захватывающей игрой с сортировкой по цвету. Она предназначена для того, чтобы одновременно развлекать и обострять ваш ум. Сортируя цветные шарики, чтобы наполнить каждую бутылку одним цветом, вы расслабляетесь. приносит снимет стресс и отвлечет вас от повседневных забот.",
-    "tags": [
-      "NPC",
-      "Addon"
-    ],
-    "image_url": "https://static.rustore.ru/imgproxy/wi2N3BPK0-L6JSU0Sc9A6VwF-DF6dVgY2OjCYFFSncw/preset:web_app_icon_160/plain/https://static.rustore.ru/2025/11/6/cb/apk/2063669341/content/ICON/ed39d907-2200-4443-b209-11e8dfd2afad.jpeg@webp",
-    "screenshots": [
-      "https://static.rustore.ru/imgproxy/pEI6uJQZivfIgEb72-rZhKWVlwZaYxWBjtqiJDuvrZY/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/11/6/a2/apk/2063669341/content/SCREENSHOT/378dcb9c-100b-49db-82a7-1abfb11aabae.jpeg@webp"
-    ]
-  },
-  {
-    "id": "Небоскреб Мечты: Новые вершины",
-    "category": "Mods",
-    "title": "Небоскреб Мечты: Новые вершины",
-    "description": "Построй свой собственный небоскреб – играй в строительный бизнес-симулятор «Небоскреб мечты»! Стань успешным бизнесменом, инвестируя в прибыльные отрасли и открывая различные бизнесы на этажах небоскреба. Нанимай сотрудников, закупай товары, собирай прибыль и строй свой небоскреб все выше!.",
-    "tags": [
-      "Addon",
-      "Admin"
-    ],
-    "image_url": "https://static.rustore.ru/imgproxy/djzBoPz3CExgpoi_ysufRFyXeJjYx-TuwGegLXsfCic/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/620735/content/ICON/490b49a1-f61a-4e21-8ec9-60aadab87ff9.png@webp",
-    "screenshots": [
-      "https://static.rustore.ru/imgproxy/SG28Zc2tBfAHbTcwtesock7LV-pIgwcjUcwuUQW65oU/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/620735/content/SCREENSHOT/821bc5be-06e2-49c4-98c5-1c5141ef0bf6.png@webp"
-    ]
-  },
-  {
     "id": "My Romance",
     "category": "Mods",
     "title": "My Romance",
-    "description": "Решайте головоломки в формате "3 в ряд", чтобы заработать монеты! Придайте своему персонажу модный вид с головы до ног и сделайте макияж",
-    "tags": [
-      "Addon",
-      "Tools"
-    ],
+    "description": "Решайте головоломки в формате \"3 в ряд\", чтобы заработать монеты! Придайте своему персонажу модный вид с головы до ног и сделайте макияж",
+    "tags": ["Addon", "Tools"],
     "image_url": "https://static.rustore.ru/imgproxy/10nAu2otdC6yOHoZcnHD1VBbOau8xfz50ApBDUqth-Y/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063551642/content/ICON/3239ef61-d713-4e41-bd0b-041cbb81ab5e.png@webp",
     "screenshots": [
       "https://static.rustore.ru/imgproxy/b9teXph6uzN0fBJO6El9nV42JAqN9v_NE1y-yCuIqwA/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2063551642/content/SCREENSHOT/f686fedb-21fb-417e-986c-bb11a7d89f53.png@webp"
@@ -309,88 +145,19 @@
     "category": "Mods",
     "title": "Snake.io",
     "description": "Развивайте свои навыки и попытайтесь выжить столько, сколько вы можете, становясь самым большим червем. Начните свой путь как маленький червячок и стремитесь получить больше еды, съедая других, кто также пытается сделать то же самое. Насколько долго вы сможете протянуть?",
-    "tags": [
-      "Addon",
-      "Fun"
-    ],
+    "tags": ["Addon", "Fun"],
     "image_url": "https://static.rustore.ru/imgproxy/w01weq-XOkdhFEG8eIPVaIAvh2NuUonQazQQVfZdHQs/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063493772/content/ICON/11be3990-d2e2-4c36-91ae-506a7fbf960f.png@webp",
     "screenshots": [
-      "https://static.rustore.ru/imgproxy/tUIz7lkAG3hvF6FpHKt916WmqXlmRBTIPisAkLxnJOQ/preset:web_scr_lnd_335/plain/https://static.rustore.ru/apk/2063493772/content/SCREENSHOT/8f4b3f3f-48e1-4072-9d7e-59a9901d0fdf.@webp"
+      "https://static.rustore.ru/imgproxy/tUIz7lkAG3hvF6FpHKt916WmqXlmRBTIPisAkLxnJOQ/preset:web_scr_lnd_335/plain/https://static.rustore.ru/apk/2063493772/content/SCREENSHOT/8f4b3f3f-48e1-4072-9d7e-59a9901d0fdf@webp"
     ]
   },
+
   {
     "id": "resistance_scout",
     "category": "Skins",
     "title": "Resistance Scout",
     "description": "Play as a resistance scout dressed in green.",
-    "tags": [
-      "NPC"
-    ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"
-    ]
-  },
-  {
-    "id": "resistance_scout",
-    "category": "Skins",
-    "title": "Resistance Scout",
-    "description": "Play as a resistance scout dressed in green.",
-    "tags": [
-      "NPC"
-    ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"
-    ]
-  },
-  {
-    "id": "resistance_scout",
-    "category": "Skins",
-    "title": "Resistance Scout",
-    "description": "Play as a resistance scout dressed in green.",
-    "tags": [
-      "NPC"
-    ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"
-    ]
-  },
-  {
-    "id": "resistance_scout",
-    "category": "Skins",
-    "title": "Resistance Scout",
-    "description": "Play as a resistance scout dressed in green.",
-    "tags": [
-      "NPC"
-    ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"
-    ]
-  },
-  {
-    "id": "resistance_scout",
-    "category": "Skins",
-    "title": "Resistance Scout",
-    "description": "Play as a resistance scout dressed in green.",
-    "tags": [
-      "NPC"
-    ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"
-    ]
-  },
-  {
-    "id": "resistance_scout",
-    "category": "Skins",
-    "title": "Resistance Scout",
-    "description": "Play as a resistance scout dressed in green.",
-    "tags": [
-      "NPC"
-    ],
+    "tags": ["NPC"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
     "screenshots": [
       "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"
@@ -401,9 +168,7 @@
     "category": "Skins",
     "title": "Civil Protection",
     "description": "Become a Civil Protection officer.",
-    "tags": [
-      "NPC"
-    ],
+    "tags": ["NPC"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/",
     "screenshots": [
       "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/"
@@ -414,9 +179,7 @@
     "category": "Skins",
     "title": "Alyx Vance",
     "description": "Play as Alyx Vance.",
-    "tags": [
-      "NPC"
-    ],
+    "tags": ["NPC"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/",
     "screenshots": [
       "https://steamuserimages-a.akamaihd.net/ugc/2432585646960105378/C4845DF55EB12301A8A763CA955375529C57BB99/"
