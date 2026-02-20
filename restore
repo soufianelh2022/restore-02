@@ -95,7 +95,72 @@
       "https://static.rustore.ru/imgproxy/o6PYgR3-YDloyiaNZa_DQpkk-VEK_UGvd7VRSxQfxrI/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/3155391/content/SCREENSHOT/0cfa14a4-739e-4302-a32f-8970e5121c31.jpg@webp"
     ]
   },
-
+  {
+    "id": "Наруто: Битва Шиноби",
+    "category": "Mods",
+    "title": "Наруто: Битва Шиноби",
+    "description": "Игра официально выйдет 9 декабря! Оставайтесь с нами!! Наруто: Битва Шиноби — это мобильная игра в жанре экшн-RPG, которая переносит захватывающий мир Наруто на твое устройство. Высококачественная 3D-графика, динамичные бои в реальном ",
+    "tags": ["Наруто", "Addon"],
+    "image_url": "https://static.rustore.ru/imgproxy/r-PW_wKV3oZjUaneZygGyf_RtP4pqpLoOec0rX3WCAw/preset:web_app_icon_160/plain/https://static.rustore.ru/2025/11/20/3f/apk/2063669455/content/ICON/29d2794f-30e7-4445-94ff-7917059cdccf.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/e_kCvtr9eSLrPj9x_ozBC-CFglSBzSrn5YKjttImsj0/preset:web_scr_lnd_335/plain/https://static.rustore.ru/2025/12/3/e0/apk/2063669455/content/SCREENSHOT/6d1b4579-ee56-446f-b658-d00ed80ff984.jpg@webp"
+    ]
+  },
+  {
+    "id": "Повелители покемонов",
+    "category": "Mods",
+    "title": "Повелители покемонов",
+    "description": "Каждый кадр тщательно прорисован, милые покемоны оживают на экране От таинственных лесов до огненных вулканов — HD-локации погружают в новый мир",
+    "tags": ["Weapons", "Addon"],
+    "image_url": "https://static.rustore.ru/imgproxy/jWFeV_FNIXyR7GLuoDu0bGX0EuiZofPk-yoHKViouLA/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063635588/content/ICON/a862e54b-3922-4119-be82-5e3cd4da1a91.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/8o6lzq0JQpYbuUe7EjQHPplSW6pEdLVEngyHB8gy2Vg/preset:web_scr_lnd_335/plain/https://static.rustore.ru/apk/2063635588/content/SCREENSHOT/758264a3-7dbb-4111-90bc-1d044221c06c.jpg@webp"
+    ]
+  },
+  {
+    "id": "Grand Mobile: РП жизнь и гонки онлайн",
+    "category": "Mods",
+    "title": "Grand Mobile: РП жизнь и гонки онлайн",
+    "description": "Добро пожаловать в Grand Mobile — масштабную онлайн RP игру с открытым миром, вдохновлённую атмосферой гта и современной жизнью России. Здесь вы начинаете путь с нуля и сами решаете, кем стать: законопослушным гражданином, успешным бизнесменом или опасным криминальным автори.",
+    "tags": ["Weapons", "жизнь"],
+    "image_url": "https://static.rustore.ru/imgproxy/9PQezXg1gL1kmLm0CslJJmNlKen6XFdgJsGRg0fxKlk/preset:web_app_icon_160/plain/https://static.rustore.ru/2026/1/16/fd/apk/2063550945/content/ICON/b5f1a455-c03b-40a5-84b7-40f615eeb167.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/5J8CGBtT_olusG7k9qtXI9CUibbxZwa5WiV5oSLBeK8/preset:web_scr_lnd_335/plain/https://static.rustore.ru/2026/1/5/bb/apk/2063550945/content/SCREENSHOT/3aae6128-32f0-4cf9-a7bd-7b7ef37b6040.png@webp"
+    ]
+  },
+  {
+    "id": "Рыбалка World of Fishers",
+    "category": "Mods",
+    "title": "Рыбалка World of Fishers",
+    "description": " Ловите 1558 видов рыб в 2D/3D мобильной (Андроид, IOS, ПК) русской рыбалке 2026 года.  Симулятор для рыбаков, которые не могут попасть на реальную рыбалку! Скачайте игру, соревнуйтесь, общайтесь с другими реальными игроками на русском. Наша рыбалка:.",
+    "tags": ["Weapons", "Addon"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/",
+    "screenshots": [
+      "https://steamuserimages-a.akamaihd.net/ugc/2024965561053472099/1B6F68735390696D495687706316279933096057/"
+    ]
+  },
+  {
+    "id": "Реальная рыбалка",
+    "category": "Mods",
+    "title": "Реальная рыбалка",
+    "description": "Представляем Вашему вниманию наш симулятор рыбалки! Вас ожидает настоящий рай для рыбака: 30 великолепно проработанных локаций  Более 300 видов разнообразных рыб.",
+    "tags": ["Weapons", "Addon"],
+    "image_url": "https://static.rustore.ru/imgproxy/gwxoaP6ZSKmV4mWJKh2FtiQgPCdvQ4ORfz9UXLBKxKU/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/68380607/content/ICON/c61f22e3-ecd7-4e1f-9e7d-598aeb4ffe67.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/tUoEbgjuv28gmolYxR-ncCWJqJXwATWvYb6kuT3v-II/preset:web_scr_lnd_335/plain/https://static.rustore.ru/apk/68380607/content/SCREENSHOT/85ff3853-eeed-4f49-8b51-9dfcbbadda30.png@webp"
+    ]
+  },
+  {
+    "id": "Рыбалка для друзей",
+    "category": "Mods",
+    "title": "Рыбалка для друзей",
+    "description": "Почувствуй азарт рыбной ловли в любое время – играй онлайн и оффлайн! Лови рыбу, выполняй квесты, улучшай снасти и соревнуйся с другими игроками.",
+    "tags": ["Weapons", "Addon"],
+    "image_url": "https://static.rustore.ru/imgproxy/3xebbRNoIyNv9vaP7kTgnBkrFd4Cc85-Mh1Au7ynUdU/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/587513023/content/ICON/873516ed-6bf6-4dc2-806f-31f54a90411c.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/VU7ySy1g6adOD79tuEAZC13R22-Zrgxcd3nUbOk0EbA/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/587513023/content/SCREENSHOT/4cda6d0b-8f11-4ef0-86f1-e22e8212daf4.jpg@webp"
+    ]
+  },
   {
     "id": "Блок бласт - игры без интернета",
     "category": "Mods",
@@ -130,6 +195,39 @@
     ]
   },
   {
+    "id": "Nuts Sort",
+    "category": "Mods",
+    "title": "Nuts Sort",
+    "description": "Откройте для себя новый поворот в играх-головоломках Сортируйте разноцветные орехи по болтам в этом захватывающем приключении по подбору цветов! С более чем 500 уровнями возрастающих трудностей, Nuts Color Sort Puzzle сочетает стратегическое мышление с успокаивающим игровым процессом. Идеально подходит для расслабления или оттачи",
+    "tags": ["Addon", "Tools"],
+    "image_url": "https://static.rustore.ru/imgproxy/d4WKs4HDuyayJ4o5y-C6Yw_QFRRm0cHRniIdNI05XW8/preset:web_app_icon_160/plain/https://static.rustore.ru/2026/1/19/bf/apk/2063688306/content/ICON/820bfc36-ce7c-4546-a60b-a11034cee8d3.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/JZOk8jkLEe8k25y0aJ5rWOuWyyYAECrfmO6PTwuqMIQ/preset:web_scr_prt_162/plain/https://static.rustore.ru/2026/1/19/2e/apk/2063688306/content/SCREENSHOT/d23eb9d5-ab85-4802-9b04-43c52d8dc122.jpg@webp"
+    ]
+  },
+  {
+    "id": "Сортировка мячей: Цветная игра",
+    "category": "Mods",
+    "title": "Сортировка мячей: Цветная игра",
+    "description": "Эта игра-головоломка с шариками является самой расслабляющей и захватывающей игрой с сортировкой по цвету. Она предназначена для того, чтобы одновременно развлекать и обострять ваш ум. Сортируя цветные шарики, чтобы наполнить каждую бутылку одним цветом, вы расслабляетесь. приносит снимет стресс и отвлечет вас от повседневных забот.",
+    "tags": ["NPC", "Addon"],
+    "image_url": "https://static.rustore.ru/imgproxy/wi2N3BPK0-L6JSU0Sc9A6VwF-DF6dVgY2OjCYFFSncw/preset:web_app_icon_160/plain/https://static.rustore.ru/2025/11/6/cb/apk/2063669341/content/ICON/ed39d907-2200-4443-b209-11e8dfd2afad.jpeg@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/pEI6uJQZivfIgEb72-rZhKWVlwZaYxWBjtqiJDuvrZY/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/11/6/a2/apk/2063669341/content/SCREENSHOT/378dcb9c-100b-49db-82a7-1abfb11aabae.jpeg@webp"
+    ]
+  },
+  {
+    "id": "Небоскреб Мечты: Новые вершины",
+    "category": "Mods",
+    "title": "Небоскреб Мечты: Новые вершины",
+    "description": "Построй свой собственный небоскреб – играй в строительный бизнес-симулятор «Небоскреб мечты»! Стань успешным бизнесменом, инвестируя в прибыльные отрасли и открывая различные бизнесы на этажах небоскреба. Нанимай сотрудников, закупай товары, собирай прибыль и строй свой небоскреб все выше!.",
+    "tags": ["Addon", "Admin"],
+    "image_url": "https://static.rustore.ru/imgproxy/djzBoPz3CExgpoi_ysufRFyXeJjYx-TuwGegLXsfCic/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/620735/content/ICON/490b49a1-f61a-4e21-8ec9-60aadab87ff9.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/SG28Zc2tBfAHbTcwtesock7LV-pIgwcjUcwuUQW65oU/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/620735/content/SCREENSHOT/821bc5be-06e2-49c4-98c5-1c5141ef0bf6.png@webp"
+    ]
+  },
+  {
     "id": "My Romance",
     "category": "Mods",
     "title": "My Romance",
@@ -153,16 +251,60 @@
   },
 
   {
-    "id": "resistance_scout",
+    "id": "resistance_scout_1",
     "category": "Skins",
     "title": "Resistance Scout",
     "description": "Play as a resistance scout dressed in green.",
     "tags": ["NPC"],
     "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
-    "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"
-    ]
+    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"]
   },
+  {
+    "id": "resistance_scout_2",
+    "category": "Skins",
+    "title": "Resistance Scout",
+    "description": "Play as a resistance scout dressed in green.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
+    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"]
+  },
+  {
+    "id": "resistance_scout_3",
+    "category": "Skins",
+    "title": "Resistance Scout",
+    "description": "Play as a resistance scout dressed in green.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
+    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"]
+  },
+  {
+    "id": "resistance_scout_4",
+    "category": "Skins",
+    "title": "Resistance Scout",
+    "description": "Play as a resistance scout dressed in green.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
+    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"]
+  },
+  {
+    "id": "resistance_scout_5",
+    "category": "Skins",
+    "title": "Resistance Scout",
+    "description": "Play as a resistance scout dressed in green.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
+    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"]
+  },
+  {
+    "id": "resistance_scout_6",
+    "category": "Skins",
+    "title": "Resistance Scout",
+    "description": "Play as a resistance scout dressed in green.",
+    "tags": ["NPC"],
+    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/",
+    "screenshots": ["https://steamuserimages-a.akamaihd.net/ugc/2029472097204987673/80404C7456728362D8523A70295D31D459416EBF/"]
+  },
+
   {
     "id": "civil_protection",
     "category": "Skins",
