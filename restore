@@ -208,74 +208,120 @@
       "https://static.rustore.ru/imgproxy/VU7ySy1g6adOD79tuEAZC13R22-Zrgxcd3nUbOk0EbA/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/587513023/content/SCREENSHOT/4cda6d0b-8f11-4ef0-86f1-e22e8212daf4.jpg@webp"
     ]
   },
+
   {
-    "id": "wiremod",
+    "id": "Блок бласт - игры без интернета",
     "category": "Mods",
-    "title": "Wiremod",
-    "description": "A set of tools that allows players to create complex contraptions with electronic components.",
+    "title": "Блок бласт - игры без интернета",
+    "description": "Блок бласт — это бесконечная головоломка с блоками, где каждое движение имеет значение. Размещайте блоки, собирайте комбо и набирайте очки. Сохраняйте концентрацию, думайте наперёд и узнайте, насколько высоко вы можете подняться!",
     "tags": [
       "Addon",
       "Tools"
     ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/",
+    "image_url": "https://static.rustore.ru/imgproxy/Oh9fYTpTgAfjrEd3ViF_xBOPYG0a7jnhcLcxDYu1taE/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063640458/content/ICON/e82371db-9129-440f-97ac-6ec82af5af6f.png@webp",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/"
+      "https://static.rustore.ru/imgproxy/v5hrO98_msAqsTLfpJHFk_4LV7czghwdLapEJ0nuAOc/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2063640458/content/SCREENSHOT/a2f9c863-1fd8-4f69-b65f-ff102b70d4af.png@webp"
     ]
   },
   {
-    "id": "pacific_rim_snpcs",
+    "id": "Blockudoku - Block Puzzle",
     "category": "Mods",
-    "title": "Pacific Rim SNPCs",
-    "description": "Adds Jaeger and Kaiju SNPCs from the Pacific Rim franchise.",
+    "title": "Blockudoku - Block Puzzle",
+    "description": "Blockudoku — это восхитительное сочетание судоку и головоломок с блоками. Блок пазл - это не сложная, но затягивающая логическая головоломка, от которой вы не сможете оторваться.
+
+Соедините блоки так, чтобы составить линии и квадраты. Расчистите поле и побейте свой рекорд ",
+    "tags": [
+      "Addon",
+      "Tools"
+    ],
+    "image_url": "https://static.rustore.ru/imgproxy/s-ikDG4L9gYIivCb0Pq2L9fIrd8P26APBF8opFP7woM/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063493648/content/ICON/0105f0b0-0e55-421d-9a03-7eb09d8d0e2a.@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/rytXrLZKpEL9hpyL4oNh9UMGizCp6KaiP0qrfj14KrM/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2063493648/content/SCREENSHOT/544e7411-76f1-4fe0-9790-aa8d0f8244ce.@webp
+    ]
+  },
+  {
+    "id": "Tile Explorer - совпадение",
+    "category": "Mods",
+    "title": "Tile Explorer - совпадение",
+    "description": "Увлечены головоломками и ищете свежую игру в жанре "три в ряд"? Хотите расслабиться, получить удовольствие и погрузиться в мир интеллектуальных головоломок с уникальными плитками? Тогда откройте для себя Tile Explorer — увлекательную головоломку, где каждое соединение плиток становится искусством. На каждом уровне Tile Explorer вам предстоит разгадывать интересные и непро",
+    "tags": [
+      "Addon",
+      "Tools"
+    ],
+    "image_url": "https://static.rustore.ru/imgproxy/p8hhjl2N0VG98bo4nZ4vmkZ2nPlnhOubU8a_GF_SaIk/preset:web_app_icon_160/plain/https://static.rustore.ru/2025/11/6/d4/apk/2063669124/content/ICON/f6b460be-adf0-4c3a-a35f-b7be5d2c171a.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/ZNmbQTI9Zhft4MMLpfGqf_ijQRApmwWDb3VfjZIlSdY/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/11/6/73/apk/2063669124/content/SCREENSHOT/5caef1a2-a82f-45c7-89dd-2b8182452af9.jpeg@webp"
+    ]
+  },
+  {
+    "id": "Nuts Sort",
+    "category": "Mods",
+    "title": "Nuts Sort",
+    "description": "Откройте для себя новый поворот в играх-головоломках
+Сортируйте разноцветные орехи по болтам в этом захватывающем приключении по подбору цветов! С более чем 500 уровнями возрастающих трудностей, Nuts Color Sort Puzzle сочетает стратегическое мышление с успокаивающим игровым процессом. Идеально подходит для расслабления или оттачи",
+    "tags": [
+      "Addon",
+      "Tools"
+    ],
+    "image_url": "https://static.rustore.ru/imgproxy/d4WKs4HDuyayJ4o5y-C6Yw_QFRRm0cHRniIdNI05XW8/preset:web_app_icon_160/plain/https://static.rustore.ru/2026/1/19/bf/apk/2063688306/content/ICON/820bfc36-ce7c-4546-a60b-a11034cee8d3.png@webp",
+    "screenshots": [
+      "https://static.rustore.ru/imgproxy/JZOk8jkLEe8k25y0aJ5rWOuWyyYAECrfmO6PTwuqMIQ/preset:web_scr_prt_162/plain/https://static.rustore.ru/2026/1/19/2e/apk/2063688306/content/SCREENSHOT/d23eb9d5-ab85-4802-9b04-43c52d8dc122.jpg@webp"
+    ]
+  },
+  {
+    "id": "Сортировка мячей: Цветная игра",
+    "category": "Mods",
+    "title": "Сортировка мячей: Цветная игра",
+    "description": "Эта игра-головоломка с шариками является самой расслабляющей и захватывающей игрой с сортировкой по цвету. Она предназначена для того, чтобы одновременно развлекать и обострять ваш ум. Сортируя цветные шарики, чтобы наполнить каждую бутылку одним цветом, вы расслабляетесь. приносит снимет стресс и отвлечет вас от повседневных забот.",
     "tags": [
       "NPC",
       "Addon"
     ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/",
+    "image_url": "https://static.rustore.ru/imgproxy/wi2N3BPK0-L6JSU0Sc9A6VwF-DF6dVgY2OjCYFFSncw/preset:web_app_icon_160/plain/https://static.rustore.ru/2025/11/6/cb/apk/2063669341/content/ICON/ed39d907-2200-4443-b209-11e8dfd2afad.jpeg@webp",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/795314545524853036/8A850630680F8505581136453960751978255953/"
+      "https://static.rustore.ru/imgproxy/pEI6uJQZivfIgEb72-rZhKWVlwZaYxWBjtqiJDuvrZY/preset:web_scr_prt_162/plain/https://static.rustore.ru/2025/11/6/a2/apk/2063669341/content/SCREENSHOT/378dcb9c-100b-49db-82a7-1abfb11aabae.jpeg@webp"
     ]
   },
   {
-    "id": "ulx_admin",
+    "id": "Небоскреб Мечты: Новые вершины",
     "category": "Mods",
-    "title": "ULX Admin Mod",
-    "description": "A powerful admin utility for managing servers.",
+    "title": "Небоскреб Мечты: Новые вершины",
+    "description": "Построй свой собственный небоскреб – играй в строительный бизнес-симулятор «Небоскреб мечты»! Стань успешным бизнесменом, инвестируя в прибыльные отрасли и открывая различные бизнесы на этажах небоскреба. Нанимай сотрудников, закупай товары, собирай прибыль и строй свой небоскреб все выше!.",
     "tags": [
       "Addon",
       "Admin"
     ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/",
+    "image_url": "https://static.rustore.ru/imgproxy/djzBoPz3CExgpoi_ysufRFyXeJjYx-TuwGegLXsfCic/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/620735/content/ICON/490b49a1-f61a-4e21-8ec9-60aadab87ff9.png@webp",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/920110421040562637/E7C76A2846170258B16694371536730076214310/"
+      "https://static.rustore.ru/imgproxy/SG28Zc2tBfAHbTcwtesock7LV-pIgwcjUcwuUQW65oU/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/620735/content/SCREENSHOT/821bc5be-06e2-49c4-98c5-1c5141ef0bf6.png@webp"
     ]
   },
   {
-    "id": "realistic_damage",
+    "id": "My Romance",
     "category": "Mods",
-    "title": "Realistic Damage System",
-    "description": "A damage system that adds realism to combat scenarios.",
+    "title": "My Romance",
+    "description": "Решайте головоломки в формате "3 в ряд", чтобы заработать монеты! Придайте своему персонажу модный вид с головы до ног и сделайте макияж",
     "tags": [
       "Addon",
       "Tools"
     ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/",
+    "image_url": "https://static.rustore.ru/imgproxy/10nAu2otdC6yOHoZcnHD1VBbOau8xfz50ApBDUqth-Y/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063551642/content/ICON/3239ef61-d713-4e41-bd0b-041cbb81ab5e.png@webp",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/1478822500854659218/1F0698188C020584768393524021200230248446/"
+      "https://static.rustore.ru/imgproxy/b9teXph6uzN0fBJO6El9nV42JAqN9v_NE1y-yCuIqwA/preset:web_scr_prt_162/plain/https://static.rustore.ru/apk/2063551642/content/SCREENSHOT/f686fedb-21fb-417e-986c-bb11a7d89f53.png@webp"
     ]
   },
   {
-    "id": "bitminers_2",
+    "id": "Snake.io",
     "category": "Mods",
-    "title": "Bitminers 2",
-    "description": "Mine bitcoin in Garry's Mod and get rich!",
+    "title": "Snake.io",
+    "description": "Развивайте свои навыки и попытайтесь выжить столько, сколько вы можете, становясь самым большим червем. Начните свой путь как маленький червячок и стремитесь получить больше еды, съедая других, кто также пытается сделать то же самое. Насколько долго вы сможете протянуть?",
     "tags": [
       "Addon",
       "Fun"
     ],
-    "image_url": "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/",
+    "image_url": "https://static.rustore.ru/imgproxy/w01weq-XOkdhFEG8eIPVaIAvh2NuUonQazQQVfZdHQs/preset:web_app_icon_160/plain/https://static.rustore.ru/apk/2063493772/content/ICON/11be3990-d2e2-4c36-91ae-506a7fbf960f.png@webp",
     "screenshots": [
-      "https://steamuserimages-a.akamaihd.net/ugc/1832415396552778810/C20712C09C6D14B3F115C138E16117D2F28481A6/"
+      "https://static.rustore.ru/imgproxy/tUIz7lkAG3hvF6FpHKt916WmqXlmRBTIPisAkLxnJOQ/preset:web_scr_lnd_335/plain/https://static.rustore.ru/apk/2063493772/content/SCREENSHOT/8f4b3f3f-48e1-4072-9d7e-59a9901d0fdf.@webp"
     ]
   },
   {
