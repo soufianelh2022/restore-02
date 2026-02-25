@@ -14,7 +14,7 @@
     "yandex_banner": "R-M-18802063-1",
     "yandex_inter": "R-M-18802063-3",
     "yandex_native": "R-M-18802063-2",
-    "yandex_reward": "demo-rewarded-yandex",
+    "yandex_reward": "R-M-18802063-4",
     "openadyandex": "R-M-18802063-5",
 
     "MaxBanner": "R-M-18802063-1",
